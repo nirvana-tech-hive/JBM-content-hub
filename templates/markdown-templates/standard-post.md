@@ -83,9 +83,9 @@ Ready to implement? Start here:
 
 ---
 
-**Join our community** for more insights on [related topic]. [CTA Link]
+**Join JBM** for more insights on [related topic]. [Get Access →]
 
 ---
 
 *Tags: #tag1 #tag2 #tag3*
-*Author: [Author Name]*
+*Author: JBM - Jovira Business Machine*
