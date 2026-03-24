@@ -1,12 +1,12 @@
-# Business Growth Community Content Hub
+# JBM - Jovira Business Machine
 
 ## 🎯 Project Overview
 
-A comprehensive content management database designed to serve as the go-to hub for businesses and small to medium-scale enterprises seeking actionable insights, strategies, and tools to thrive in today's competitive landscape.
+**JBM (Jovira Business Machine)** is a comprehensive content management database designed to serve as the go-to hub for businesses and small to medium-scale enterprises seeking actionable insights, strategies, and tools to thrive in today's competitive landscape.
 
 ---
 
-## 🏢 About the Community
+## 🏢 About JBM
 
 We are building a community where we share industry-grade trends and updates to help businesses in our communities outperform others. The community is free, and there is great potential for networking and partnerships.
 
@@ -100,7 +100,7 @@ All content is created to remain relevant and valuable over time, avoiding tempo
 ## 📁 Repository Structure
 
 ```
-business-growth-content-hub/
+JBM-content-hub/
 ├── docs/
 │   ├── brand-guidelines/          # Visual identity standards
 │   ├── content-strategy/          # Strategy documentation
@@ -202,3 +202,4 @@ Every piece of content should help businesses:
 
 *Last Updated: March 2026*
 *Version: 1.0.0*
+*Jovira Business Machine (JBM)*
