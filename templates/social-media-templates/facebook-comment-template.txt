@@ -1,0 +1,107 @@
+# FACEBOOK COMMENT TEMPLATE
+
+📚 [DESCRIPTOR] Your [TYPE OF CONTENT]:
+
+[LINK TO BLOG POST]
+
+Inside you'll discover:
+• [Key insight/benefit 1]
+• [Key insight/benefit 2]
+• [Key insight/benefit 3]
+• [Key insight/benefit 4]
+
+[Call to action or closing statement that encourages engagement]
+
+Save this post and share with someone who needs this! [EMOJI]
+
+---
+
+## GUIDELINES:
+
+### Length: 40-60 words (short but valuable)
+
+### Structure:
+1. Opening hook with emoji (1 line)
+2. Link on its own line
+3. Value bullets (3-4 points)
+4. Social CTA (1 line)
+
+### Opening Options:
+- "📚 Here's your complete guide to..."
+- "📚 The full breakdown is here:"
+- "📚 Get the complete resource:"
+- "📚 Your [topic] guide is ready:"
+
+### Bullet Point Style:
+- Use • (bullet) for bullets
+- Keep each bullet short (5-8 words)
+- Focus on outcomes, not features
+- Create curiosity, don't reveal everything
+
+### Closing CTAs:
+- "Save this post and share with someone who needs this! 🔄"
+- "Save this for later and tag a friend! 🚀"
+- "Bookmark this for your next planning session! 💡"
+- "Share with your team! 👥"
+
+---
+
+## COMMENT VARIATIONS:
+
+### For How-To Guides:
+📚 Your step-by-step guide is here:
+
+[LINK]
+
+Each step broken down with:
+• Exact tools to use
+• Screenshots and examples
+• Common mistakes to avoid
+• Time estimates for each phase
+
+Save this and tackle it this weekend! 🛠️
+
+---
+
+### For Strategy Posts:
+📚 The complete strategy breakdown:
+
+[LINK]
+
+You'll learn:
+• The framework top companies use
+• Implementation timeline
+• Success metrics to track
+• Real examples from businesses like yours
+
+Bookmark this for your next strategy session! 📋
+
+---
+
+### For Tool Reviews:
+📚 Full tool comparison inside:
+
+[LINK]
+
+I break down:
+• Feature-by-feature comparison
+• Pricing for different team sizes
+• Real user feedback
+• My honest recommendation
+
+Save this before your next tool decision! 🔧
+
+---
+
+### For Mindset Posts:
+📚 Transform your thinking:
+
+[LINK]
+
+Inside:
+• The psychology behind [topic]
+• Practical exercises to apply today
+• Real transformation stories
+• Daily practices for lasting change
+
+Save this for when you need a mindset shift! 🧠

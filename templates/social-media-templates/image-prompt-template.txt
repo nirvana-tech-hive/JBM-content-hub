@@ -1,0 +1,89 @@
+# AI IMAGE GENERATION PROMPT TEMPLATE
+
+Create a [STYLE TYPE] illustration depicting [MAIN SUBJECT/CONCEPT].
+
+The scene should convey [EMOTION/CONCEPT/MOOD] — showing [SPECIFIC SCENARIO OR TRANSFORMATION].
+
+Include elements like:
+- [Visual element 1 that represents key concept]
+- [Visual element 2 that supports the message]
+- [Visual element 3 that adds depth]
+- [Visual element 4 that creates interest]
+- [Visual element 5 that ties to brand]
+
+Style: [ART STYLE] with [SPECIFIC CHARACTERISTICS]. Think [REFERENCE BRAND OR AESTHETIC] — [QUALITY DESCRIPTORS].
+
+Colors:
+- Deep gold (#C9A227) for [USAGE IN IMAGE]
+- Rich blue (#1E3A5F) for [USAGE IN IMAGE]
+- Premium black (#1A1A1A) for [USAGE IN IMAGE]
+- Pure white (#FFFFFF) background
+
+Mood: [EMOTIONAL QUALITY], [SECONDARY QUALITY], [TERTIARY QUALITY]. [ADDITIONAL CONTEXT ABOUT FEELING].
+
+Composition: [LAYOUT DESCRIPTION], plenty of white space, [BALANCE DESCRIPTION].
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio
+
+---
+
+## STYLE OPTIONS:
+
+### Business/Tech (Clean, Modern)
+"Modern corporate illustration with isometric elements, clean lines, and subtle gradients. Think Stripe or Linear aesthetic—premium, sophisticated, approachable."
+
+### Conceptual (Abstract, Metaphorical)
+"Conceptual illustration blending realism with metaphor. Clean, modern, thought-provoking. Not cartoonish but clearly conceptual."
+
+### Dynamic (Action, Movement)
+"Dynamic business illustration with motion elements, energy lines, and transformation visualized. Modern, exciting, forward-moving."
+
+### Minimal (Simple, Elegant)
+"Minimalist business illustration with essential elements only. Clean lines, plenty of white space, elegant simplicity."
+
+### Futuristic (AI, Innovation)
+"Premium tech illustration with subtle futuristic elements. Think Apple or Microsoft corporate aesthetic—sophisticated but accessible."
+
+---
+
+## ELEMENT IDEAS BY CATEGORY:
+
+### Productivity Tools
+- Clocks, calendars, checklists
+- Flowing tasks, organized stacks
+- Time visualization, efficiency metrics
+
+### AI Tools
+- Neural networks, data streams
+- Human-AI collaboration
+- Interface elements, holograms
+
+### Business Mindset
+- Brain, gears, pathways
+- Transformation, crossroads
+- Light bulbs, insight moments
+
+### Automations
+- Connected nodes, workflows
+- Automatic processes, flows
+- Hands-free operations
+
+### Trends
+- Forward movement, horizons
+- Rising graphs, growth
+- Innovation symbols
+
+### Best Practices
+- Checklists, stamps of approval
+- Quality markers, excellence symbols
+- Standards, benchmarks
+
+---
+
+## SIZE SPECIFICATIONS:
+
+| Format | Dimensions | Aspect Ratio |
+|--------|------------|--------------|
+| Instagram Post | 1080 x 1080 px | 1:1 (Square) |
+| Instagram Portrait | 1080 x 1350 px | 4:5 |
+| Facebook Post | 1080 x 1080 px | 1:1 (Square) |

@@ -104,34 +104,43 @@ JBM-content-hub/
 ├── docs/
 │   ├── brand-guidelines/          # Visual identity standards
 │   ├── content-strategy/          # Strategy documentation
-│   └── ai-agent-handbook/         # Guidelines for AI contributors
+│   ├── ai-agent-handbook/         # Guidelines for AI contributors
+│   └── social-media-workflow/     # Facebook content workflow
 ├── content/
-│   ├── productivity-tools/
-│   │   ├── markdown/              # MD format posts
-│   │   └── html/                  # HTML format posts
-│   ├── ai-tools/
-│   ├── business-mindset/
-│   ├── business-strategies/
-│   ├── automations/
-│   ├── trends/
-│   ├── industry-updates/
-│   ├── how-to-guides/
-│   └── best-practices/
+│   └── [category]/
+│       └── posts/
+│           └── [YYYY-MM-DD-post-slug]/
+│               ├── post.md                # Markdown blog post
+│               ├── post.html              # HTML blog post (Blogger-ready)
+│               ├── facebook-post.txt      # Facebook post text
+│               ├── image-prompt.txt       # AI image generation prompt
+│               └── facebook-comment.txt   # FB comment with link
 ├── calendar/
-│   ├── 2026/
-│   │   ├── Q1/                    # Quarterly calendars
-│   │   ├── Q2/
-│   │   ├── Q3/
-│   │   └── Q4/
-│   └── templates/                 # Calendar templates
+│   └── 2026/
+│       ├── Q1-Q4/                 # Quarterly calendars
+│       └── templates/             # Calendar templates
 ├── templates/
 │   ├── markdown-templates/        # MD post templates
 │   ├── html-templates/            # HTML post templates
-│   └── email-templates/           # Newsletter templates
+│   └── social-media-templates/    # FB post, image prompt, comment templates
 └── assets/
     ├── images/                    # Post images
     ├── graphics/                  # Infographics
     └── logos/                     # Brand assets
+```
+
+### Individual Post Package Structure
+
+Each blog post includes all related files in one folder:
+
+```
+posts/
+└── 2026-04-01-ultimate-guide-task-automation-tools/
+    ├── post.md                    # Blog post (Markdown)
+    ├── post.html                  # Blog post (HTML for Blogger)
+    ├── facebook-post.txt          # FB post (no links, CTA to comments)
+    ├── image-prompt.txt           # AI image prompt (1080x1080)
+    └── facebook-comment.txt       # FB comment with blog link
 ```
 
 ---
@@ -165,9 +174,20 @@ To become the undisputed go-to hub for business-critical information that transf
 - Schema markup where applicable
 
 ### Output Formats
-All posts must be created in two formats:
+All posts must be created in multiple formats:
 1. **Markdown (.md)** - For text-based editors
 2. **Full-Stack HTML** - For Google Blogger and other HTML editors
+3. **Facebook Post** - Social media promotion (no links in post body)
+4. **Image Prompt** - AI image generation prompt (1080x1080)
+5. **Facebook Comment** - Comment with blog link
+
+### Social Media Integration
+Every blog post includes a complete social media promotion package:
+- **Facebook Post:** Hook-driven text with CTA to comments (no links to maximize reach)
+- **Image Prompt:** Detailed AI image generation prompt for 1080x1080 visuals
+- **Facebook Comment:** Contains the blog link with value bullets
+
+See [Social Media Workflow](./docs/social-media-workflow/README.md) for detailed guidelines.
 
 ---
 
@@ -177,6 +197,7 @@ If you are an AI agent working on this project, please read:
 - [AI Agent Handbook](./docs/ai-agent-handbook/README.md)
 - [Content Strategy](./docs/content-strategy/README.md)
 - [Brand Guidelines](./docs/brand-guidelines/README.md)
+- [Social Media Workflow](./docs/social-media-workflow/README.md)
 
 ---
 

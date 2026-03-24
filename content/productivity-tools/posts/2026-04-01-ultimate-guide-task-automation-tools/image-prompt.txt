@@ -1,0 +1,24 @@
+Create a professional business illustration depicting automation and efficiency transformation.
+
+The scene should convey a professional working alongside sleek, modern technology interfaces with automated workflows visualized as connected nodes and flowing lines. Show the transition from chaos to order.
+
+Include elements like:
+- Floating task cards being automatically sorted into organized stacks
+- Calendar events organizing themselves
+- Email icons flowing into organized folders
+- A professional figure at the center, calmly overseeing the automation
+- Data streams in gold (#C9A227) showing information flow
+
+Style: Modern corporate illustration with isometric elements, clean lines, and subtle gradients. Think premium tech company aesthetic like Stripe or Linear.
+
+Colors: 
+- Deep gold (#C9A227) for accent elements, highlights, and data flow lines
+- Rich blue (#1E3A5F) for primary elements and trust indicators
+- Premium black (#1A1A1A) for text and outlines
+- Pure white (#FFFFFF) background
+
+Mood: Sophisticated, professional, aspirational—conveying relief and efficiency, not cluttered or overwhelming.
+
+Composition: Centered focal point with supporting elements radiating outward, plenty of white space, balanced asymmetry. The automation should feel helpful, not intimidating.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio

@@ -1,0 +1,25 @@
+Create a sophisticated business illustration showing the integration of AI into business operations.
+
+The scene should depict a professional workspace where human and AI collaboration is visualized as seamless and powerful. Show a business professional at a desk with floating interface elements representing ChatGPT capabilities.
+
+Include elements like:
+- A centered professional figure engaging with holographic interface elements
+- Floating content cards being generated (representing content creation)
+- Data visualization elements showing insights
+- Speech bubbles transforming into structured documents
+- Workflow lines in gold connecting different tasks
+- A sense of augmented intelligence, not replacement
+
+Style: Premium tech illustration, clean and modern with subtle futuristic elements. Think Apple or Microsoft corporate aesthetic—sophisticated but accessible.
+
+Colors:
+- Deep gold (#C9A227) for AI elements, highlights, and flowing data lines
+- Rich blue (#1E3A5F) for trust elements, interface components
+- Premium black (#1A1A1A) for text and defining lines
+- Pure white (#FFFFFF) background
+
+Mood: Empowering, sophisticated, intelligent. The human is enhanced, not replaced. Professional yet exciting.
+
+Composition: Human figure on one side, AI interface elements on the other, with golden data streams connecting them. Balanced, not cluttered. Plenty of breathing room.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio
