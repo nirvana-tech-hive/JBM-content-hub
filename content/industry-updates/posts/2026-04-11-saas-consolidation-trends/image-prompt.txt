@@ -1,0 +1,24 @@
+Create a conceptual business illustration depicting SaaS consolidation and stack optimization.
+
+The scene should convey simplification, strategic reduction, and platform cohesion — showing the transformation from scattered tools to unified platforms.
+
+Include elements like:
+- Multiple scattered app icons transforming into consolidated platforms
+- Cloud infrastructure elements suggesting SaaS ecosystem
+- Simplification arrows or transition indicators
+- Cost reduction metrics or efficiency indicators
+- Clean, organized final state vs. cluttered initial state
+
+Style: Modern corporate illustration with isometric elements, clean lines, and subtle gradients. Think Stripe or Linear aesthetic—organized, professional, clarity-focused.
+
+Colors:
+- Deep gold (#C9A227) for efficiency indicators and key metrics
+- Rich blue (#1E3A5F) for platform elements and core structures
+- Premium black (#1A1A1A) for text and icon outlines
+- Pure white (#FFFFFF) background
+
+Mood: Organized, strategic, efficient, clarifying. The image should feel like the relief of simplification.
+
+Composition: Before/after or transformation flow, plenty of white space, clean visual hierarchy showing the journey from complexity to simplicity.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio

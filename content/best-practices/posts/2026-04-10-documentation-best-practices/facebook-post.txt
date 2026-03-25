@@ -1,0 +1,17 @@
+📚 Every business has that one person who knows where everything is, how everything works, and why things are done a certain way.
+
+They're invaluable—until they go on vacation, get sick, or leave the company.
+
+Then operations grind to a halt.
+
+Most documentation fails because teams try to document everything at once instead of building documentation into daily workflows.
+
+In this guide, I break down:
+→ The 3-level documentation hierarchy (process, knowledge, wisdom)
+→ How to choose documentation tools that actually get used
+→ A simple structure for organizing your knowledge base
+→ The maintenance system that keeps documentation current
+
+Stop losing institutional knowledge every time someone leaves. Build systems that scale.
+
+👇 Check the comments for the full guide

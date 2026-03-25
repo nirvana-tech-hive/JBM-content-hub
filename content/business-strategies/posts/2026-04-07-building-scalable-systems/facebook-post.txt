@@ -1,0 +1,18 @@
+📈 70% of scaling businesses hit a "growth wall."
+
+The startup that handled 50 orders flawlessly crumbles at 500. The team that served 20 clients becomes overwhelmed at 100.
+
+The bottleneck isn't usually the market or the product—it's the infrastructure. The systems that got you here won't get you there.
+
+Most business owners wait until systems break to fix them. Smart ones build for scale before they need it.
+
+In this guide, I break down:
+→ The 3 characteristics of scalable systems
+→ 5 warning signs your systems won't scale
+→ The SCALR framework for system design
+→ Technology and team alignment strategies
+→ A 12-month scalability roadmap
+
+Build systems that grow with you—not ones that hold you back.
+
+👇 Check the comments for the full guide

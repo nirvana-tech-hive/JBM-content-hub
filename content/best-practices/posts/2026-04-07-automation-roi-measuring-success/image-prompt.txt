@@ -1,0 +1,24 @@
+Create a modern corporate illustration depicting ROI measurement and analytics for automation.
+
+The scene should convey analytical precision and business intelligence — showing the transformation from manual processes to measurable automated success with clear metrics and growth visualization.
+
+Include elements like:
+- A dashboard interface with ROI metrics, charts, and percentage indicators
+- Clock/time elements transitioning into saved hours visualization
+- Downward trending error rate graphs and upward trending productivity bars
+- Calculator and formula elements showing the math behind automation value
+- Gold accent elements highlighting key success metrics
+
+Style: Modern corporate illustration with isometric elements, clean lines, and subtle gradients. Think Stripe or Linear aesthetic — premium, sophisticated, approachable.
+
+Colors:
+- Deep gold (#C9A227) for key metrics and highlight elements
+- Rich blue (#1E3A5F) for dashboard frames and primary data
+- Premium black (#1A1A1A) for contrast and text elements
+- Pure white (#FFFFFF) background
+
+Mood: Professional, analytical, confident. Conveys the clarity that comes from proper measurement and data-driven decision making.
+
+Composition: Centered dashboard with radiating metric elements, plenty of white space, balanced visual weight showing the progression from uncertainty to clarity.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio

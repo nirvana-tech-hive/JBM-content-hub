@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perplexity AI: Research at Lightning Speed | JBM - Jovira Business Machine</title>
+    <meta name="description" content="Learn how Perplexity AI transforms research from hours to minutes. Discover real-time web access, cited sources, and business use cases for competitive intelligence and market research.">
+    <meta name="keywords" content="Perplexity AI, AI research tool, competitive intelligence, market research, AI assistant, business research, cited sources">
+    <meta name="author" content="JBM - Jovira Business Machine">
+    
+    <!-- Open Graph / Social -->
+    <meta property="og:title" content="Perplexity AI: Research at Lightning Speed">
+    <meta property="og:description" content="Learn how Perplexity AI transforms research from hours to minutes with real-time web access and cited sources.">
+    <meta property="og:image" content="https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=1200">
+    <meta property="og:type" content="article">
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Perplexity AI: Research at Lightning Speed",
+        "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=1200",
+        "datePublished": "2026-04-20",
+        "author": {
+            "@type": "Organization",
+            "name": "JBM - Jovira Business Machine"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "JBM"
+        }
+    }
+    </script>
+    
+    <style>
+        /* Reset & Base */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            color: #1A1A1A;
+            background: #FFFFFF;
+            line-height: 1.7;
+            font-size: 16px;
+        }
+        
+        /* Container */
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        /* Header */
+        .post-header {
+            margin-bottom: 32px;
+        }
+        
+        .featured-image {
+            width: 100%;
+            height: auto;
+            border-radius: 12px;
+            margin-bottom: 24px;
+        }
+        
+        .post-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            margin-bottom: 16px;
+            font-size: 14px;
+            color: #666;
+        }
+        
+        .category-badge {
+            background: #C9A227;
+            color: #FFFFFF;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-weight: 500;
+            font-size: 12px;
+            text-transform: uppercase;
+        }
+        
+        /* Typography */
+        h1 {
+            font-size: 2rem;
+            color: #1E3A5F;
+            line-height: 1.2;
+            margin-bottom: 16px;
+            font-weight: 700;
+        }
+        
+        h2 {
+            font-size: 1.5rem;
+            color: #1E3A5F;
+            margin-top: 40px;
+            margin-bottom: 16px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #C9A227;
+            font-weight: 600;
+        }
+        
+        h3 {
+            font-size: 1.25rem;
+            color: #1E3A5F;
+            margin-top: 28px;
+            margin-bottom: 12px;
+            font-weight: 600;
+        }
+        
+        h4 {
+            font-size: 1.125rem;
+            color: #1E3A5F;
+            margin-top: 24px;
+            margin-bottom: 12px;
+            font-weight: 600;
+        }
+        
+        p {
+            margin-bottom: 20px;
+        }
+        
+        /* Lists */
+        ul, ol {
+            margin-bottom: 20px;
+            padding-left: 24px;
+        }
+        
+        li {
+            margin-bottom: 8px;
+        }
+        
+        /* Callout Boxes */
+        blockquote {
+            border-left: 4px solid #C9A227;
+            background: #F5F5F5;
+            padding: 20px;
+            margin: 24px 0;
+            border-radius: 0 8px 8px 0;
+            font-style: italic;
+        }
+        
+        .key-insight {
+            background: #F5F5F5;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 24px 0;
+        }
+        
+        .key-insight strong {
+            color: #C9A227;
+        }
+        
+        .warning-box {
+            background: #FFF9E6;
+            border-left: 4px solid #C9A227;
+            padding: 20px;
+            margin: 24px 0;
+            border-radius: 0 8px 8px 0;
+        }
+        
+        /* Use Case Card */
+        .use-case-card {
+            background: #F5F5F5;
+            border-radius: 12px;
+            padding: 24px;
+            margin: 24px 0;
+            border-left: 4px solid #C9A227;
+        }
+        
+        .use-case-card h3 {
+            margin-top: 0;
+            color: #1E3A5F;
+        }
+        
+        .use-case-card p strong {
+            color: #1E3A5F;
+        }
+        
+        .use-case-card ul {
+            margin-bottom: 0;
+        }
+        
+        /* Code Block */
+        .code-block {
+            background: #1E3A5F;
+            color: #FFFFFF;
+            padding: 16px 20px;
+            border-radius: 8px;
+            font-family: 'Monaco', 'Consolas', monospace;
+            font-size: 14px;
+            margin: 16px 0;
+            overflow-x: auto;
+            white-space: pre-wrap;
+        }
+        
+        /* Prompt Examples */
+        .prompt-example {
+            background: #F5F5F5;
+            border-left: 4px solid #C9A227;
+            padding: 16px 20px;
+            margin: 16px 0;
+            border-radius: 0 8px 8px 0;
+        }
+        
+        .prompt-example .good {
+            color: #2E7D32;
+        }
+        
+        .prompt-example .bad {
+            color: #C62828;
+        }
+        
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 24px 0;
+            font-size: 14px;
+        }
+        
+        th {
+            background: #1E3A5F;
+            color: #FFFFFF;
+            padding: 12px;
+            text-align: left;
+            font-weight: 600;
+        }
+        
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #F5F5F5;
+        }
+        
+        tr:nth-child(even) {
+            background: #F5F5F5;
+        }
+        
+        /* Feature List */
+        .feature-list {
+            background: #F5F5F5;
+            border-radius: 12px;
+            padding: 24px;
+            margin: 24px 0;
+        }
+        
+        .feature-list h3 {
+            margin-top: 0;
+        }
+        
+        .feature-list ul {
+            margin-bottom: 0;
+        }
+        
+        /* Time Comparison */
+        .time-comparison {
+            display: inline-block;
+            background: #C9A227;
+            color: #FFFFFF;
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-weight: 600;
+        }
+        
+        /* Key Takeaways */
+        .takeaways {
+            background: #F5F5F5;
+            border-radius: 12px;
+            padding: 24px;
+            margin: 32px 0;
+        }
+        
+        .takeaways h2 {
+            margin-top: 0;
+            border-bottom: none;
+            padding-bottom: 0;
+        }
+        
+        .takeaways ul {
+            margin-bottom: 0;
+        }
+        
+        .takeaways li {
+            margin-bottom: 12px;
+        }
+        
+        .takeaways strong {
+            color: #1E3A5F;
+        }
+        
+        /* Action Steps */
+        .action-steps {
+            background: #1E3A5F;
+            color: #FFFFFF;
+            border-radius: 12px;
+            padding: 24px;
+            margin: 32px 0;
+        }
+        
+        .action-steps h2 {
+            color: #FFFFFF;
+            border-bottom: 2px solid #C9A227;
+            margin-top: 0;
+        }
+        
+        .action-steps ol {
+            margin-bottom: 0;
+        }
+        
+        /* CTA Section */
+        .cta-section {
+            text-align: center;
+            padding: 32px 0;
+            margin-top: 40px;
+            border-top: 1px solid #F5F5F5;
+        }
+        
+        .cta-button {
+            display: inline-block;
+            background: #C9A227;
+            color: #FFFFFF;
+            padding: 14px 32px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 16px;
+            transition: background 0.3s ease;
+        }
+        
+        .cta-button:hover {
+            background: #B8911F;
+        }
+        
+        /* Footer */
+        .post-footer {
+            margin-top: 40px;
+            padding-top: 24px;
+            border-top: 1px solid #F5F5F5;
+            font-size: 14px;
+            color: #666;
+        }
+        
+        .tags {
+            margin-bottom: 16px;
+        }
+        
+        .tag {
+            display: inline-block;
+            background: #F5F5F5;
+            color: #1E3A5F;
+            padding: 4px 10px;
+            border-radius: 4px;
+            margin-right: 8px;
+            font-size: 12px;
+        }
+        
+        /* Section Divider */
+        hr {
+            border: none;
+            border-top: 1px solid #E5E5E5;
+            margin: 32px 0;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            body {
+                font-size: 16px;
+                padding: 15px;
+            }
+            
+            h1 {
+                font-size: 1.75rem;
+            }
+            
+            h2 {
+                font-size: 1.35rem;
+            }
+            
+            h3 {
+                font-size: 1.2rem;
+            }
+            
+            .container {
+                padding: 15px;
+            }
+            
+            .post-meta {
+                flex-direction: column;
+                gap: 8px;
+            }
+            
+            table {
+                font-size: 12px;
+            }
+            
+            th, td {
+                padding: 8px;
+            }
+            
+            .cta-button {
+                width: 100%;
+                text-align: center;
+            }
+            
+            .code-block {
+                font-size: 12px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 1.5rem;
+            }
+            
+            h2 {
+                font-size: 1.25rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <article class="container">
+        <!-- Featured Image -->
+        <img src="https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=1200" alt="AI-powered research interface" class="featured-image">
+        
+        <!-- Post Header -->
+        <header class="post-header">
+            <div class="post-meta">
+                <span class="category-badge">AI Tools</span>
+                <span>📖 7 min read</span>
+                <span>📅 April 20, 2026</span>
+            </div>
+            <h1>Perplexity AI: Research at Lightning Speed</h1>
+        </header>
+        
+        <!-- Introduction -->
+        <section>
+            <h2>The Research Bottleneck</h2>
+            
+            <p>Every business decision requires research. What are competitors doing? What do customers want? What does the market look like? What are the regulatory requirements? The questions are endless, and traditional research is slow.</p>
+            
+            <p>You open browser tabs. You search. You read. You synthesize. Hours disappear. And when you finally have answers, the information is often outdated or incomplete. The gap between needing knowledge and having it costs opportunities.</p>
+            
+            <p>Perplexity AI transforms research from a time-consuming process into a real-time capability. This isn't just another search engine or chatbot—it's a research assistant that reads, synthesizes, and cites sources in seconds.</p>
+        </section>
+        
+        <hr>
+        
+        <!-- What Makes Perplexity Different -->
+        <section>
+            <h2>What Makes Perplexity Different</h2>
+            
+            <div class="feature-list">
+                <h3>Real-Time Web Access</h3>
+                
+                <p>Unlike chatbots trained on static datasets, Perplexity:</p>
+                <ul>
+                    <li>Searches the live web for every query</li>
+                    <li>Accesses current information and breaking news</li>
+                    <li>Pulls from academic papers, news sites, and forums</li>
+                    <li>Provides direct links to all sources</li>
+                </ul>
+            </div>
+            
+            <div class="feature-list">
+                <h3>Cited Sources</h3>
+                
+                <p>Every claim comes with attribution:</p>
+                <ul>
+                    <li>Click any statement to see its source</li>
+                    <li>Verify information independently</li>
+                    <li>Dive deeper into primary sources</li>
+                    <li>Build credibility with sourced content</li>
+                </ul>
+            </div>
+            
+            <div class="feature-list">
+                <h3>Follow-Up Questions</h3>
+                
+                <p>Research becomes a conversation:</p>
+                <ul>
+                    <li>Ask follow-up questions to dig deeper</li>
+                    <li>Explore related topics seamlessly</li>
+                    <li>Refine understanding iteratively</li>
+                    <li>Build comprehensive knowledge</li>
+                </ul>
+            </div>
+        </section>
+        
+        <hr>
+        
+        <!-- Business Use Cases -->
+        <section>
+            <h2>Business Use Cases</h2>
+            
+            <div class="use-case-card">
+                <h3>Competitive Intelligence</h3>
+                
+                <p><strong>Traditional Approach:</strong></p>
+                <ul>
+                    <li>Visit competitor websites</li>
+                    <li>Read news articles</li>
+                    <li>Check review sites</li>
+                    <li>Synthesize findings manually</li>
+                </ul>
+                <p><strong>Time:</strong> 3-5 hours</p>
+                
+                <p><strong>Perplexity Approach:</strong></p>
+                <div class="code-block">"What new features has [Competitor] launched in 2026? 
+What are customers saying about them?"</div>
+                <p><strong>Time:</strong> <span class="time-comparison">2 minutes</span></p>
+                
+                <p><strong>What You Get:</strong></p>
+                <ul>
+                    <li>Summary of recent launches</li>
+                    <li>Customer sentiment from reviews</li>
+                    <li>News coverage analysis</li>
+                    <li>Source links for verification</li>
+                </ul>
+            </div>
+            
+            <div class="use-case-card">
+                <h3>Market Research</h3>
+                
+                <p><strong>Traditional Approach:</strong></p>
+                <ul>
+                    <li>Industry reports (often expensive)</li>
+                    <li>Multiple searches</li>
+                    <li>Data compilation</li>
+                </ul>
+                <p><strong>Time:</strong> Days to weeks</p>
+                
+                <p><strong>Perplexity Approach:</strong></p>
+                <div class="code-block">"What is the market size for [industry]? 
+What are the growth projections for 2026-2030?"</div>
+                <p><strong>Time:</strong> <span class="time-comparison">2 minutes</span></p>
+                
+                <p><strong>What You Get:</strong></p>
+                <ul>
+                    <li>Market size estimates from multiple sources</li>
+                    <li>Growth projections with context</li>
+                    <li>Key market drivers</li>
+                    <li>Links to detailed reports</li>
+                </ul>
+            </div>
+            
+            <div class="use-case-card">
+                <h3>Product Development Research</h3>
+                
+                <p><strong>Traditional Approach:</strong></p>
+                <ul>
+                    <li>Customer surveys</li>
+                    <li>Focus groups</li>
+                    <li>Competitive product analysis</li>
+                </ul>
+                <p><strong>Time:</strong> Weeks to months</p>
+                
+                <p><strong>Perplexity Approach:</strong></p>
+                <div class="code-block">"What are the top complaints about [product category]? 
+What features do users want most?"</div>
+                <p><strong>Time:</strong> <span class="time-comparison">2 minutes</span></p>
+                
+                <p><strong>What You Get:</strong></p>
+                <ul>
+                    <li>Common pain points from reviews</li>
+                    <li>Feature requests from forums</li>
+                    <li>Competitor strengths and weaknesses</li>
+                    <li>Opportunity identification</li>
+                </ul>
+            </div>
+            
+            <div class="use-case-card">
+                <h3>Due Diligence</h3>
+                
+                <p><strong>Traditional Approach:</strong></p>
+                <ul>
+                    <li>Multiple database searches</li>
+                    <li>News archive review</li>
+                    <li>Financial research</li>
+                </ul>
+                <p><strong>Time:</strong> Days</p>
+                
+                <p><strong>Perplexity Approach:</strong></p>
+                <div class="code-block">"What do we know about [Company]? 
+Any recent news, funding, or controversies?"</div>
+                <p><strong>Time:</strong> <span class="time-comparison">5 minutes</span></p>
+                
+                <p><strong>What You Get:</strong></p>
+                <ul>
+                    <li>Company background summary</li>
+                    <li>Recent news and developments</li>
+                    <li>Potential red flags</li>
+                    <li>Verification sources</li>
+                </ul>
+            </div>
+        </section>
+        
+        <hr>
+        
+        <!-- Getting the Most from Perplexity -->
+        <section>
+            <h2>Getting the Most from Perplexity</h2>
+            
+            <h3>Effective Prompting</h3>
+            
+            <div class="prompt-example">
+                <p><strong>Be Specific:</strong></p>
+                <p class="bad">❌ "Tell me about marketing"</p>
+                <p class="good">✅ "What are the most effective B2B marketing strategies for SaaS companies in 2026?"</p>
+            </div>
+            
+            <div class="prompt-example">
+                <p><strong>Request Format:</strong></p>
+                <p class="bad">❌ Open-ended questions</p>
+                <p class="good">✅ "Provide a summary table comparing X, Y, and Z"</p>
+            </div>
+            
+            <div class="prompt-example">
+                <p><strong>Ask for Sources:</strong></p>
+                <p class="bad">❌ Accepting answers without verification</p>
+                <p class="good">✅ "Include links to primary sources"</p>
+            </div>
+            
+            <h3>Advanced Features</h3>
+            
+            <p><strong>Focus Mode:</strong><br>
+            Narrow searches to specific sources:</p>
+            <ul>
+                <li>Academic papers only</li>
+                <li>News sources only</li>
+                <li>Reddit/forum discussions</li>
+                <li>Specific websites</li>
+            </ul>
+            
+            <p><strong>Collections:</strong><br>
+            Organize research into folders:</p>
+            <ul>
+                <li>Create project-specific collections</li>
+                <li>Save threads for future reference</li>
+                <li>Share collections with team</li>
+            </ul>
+            
+            <p><strong>Copilot:</strong><br>
+            Interactive research assistant:</p>
+            <ul>
+                <li>Guides you through complex research</li>
+                <li>Asks clarifying questions</li>
+                <li>Provides deeper analysis</li>
+            </ul>
+        </section>
+        
+        <hr>
+        
+        <!-- Perplexity Pro Features -->
+        <section>
+            <h2>Perplexity Pro Features</h2>
+            
+            <p>For heavy research users, Pro adds:</p>
+            
+            <p><strong>More AI Models:</strong></p>
+            <ul>
+                <li>GPT-4</li>
+                <li>Claude</li>
+                <li>Gemini</li>
+                <li>Perplexity's own models</li>
+            </ul>
+            
+            <p><strong>File Uploads:</strong></p>
+            <ul>
+                <li>Analyze PDFs, images, and documents</li>
+                <li>Extract insights from uploaded files</li>
+                <li>Combine web research with document analysis</li>
+            </ul>
+            
+            <p><strong>API Access:</strong></p>
+            <ul>
+                <li>Integrate Perplexity into workflows</li>
+                <li>Automate research tasks</li>
+                <li>Build custom applications</li>
+            </ul>
+            
+            <p><strong>Pricing:</strong> $20/month for Pro</p>
+        </section>
+        
+        <hr>
+        
+        <!-- Comparing Research Tools -->
+        <section>
+            <h2>Comparing Research Tools</h2>
+            
+            <table>
+                <thead>
+                    <tr>
+                        <th>Feature</th>
+                        <th>Perplexity</th>
+                        <th>Google</th>
+                        <th>ChatGPT</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Real-time info</td>
+                        <td>✅</td>
+                        <td>✅</td>
+                        <td>❌</td>
+                    </tr>
+                    <tr>
+                        <td>Cited sources</td>
+                        <td>✅</td>
+                        <td>✅</td>
+                        <td>❌</td>
+                    </tr>
+                    <tr>
+                        <td>Synthesis</td>
+                        <td>✅</td>
+                        <td>❌</td>
+                        <td>✅</td>
+                    </tr>
+                    <tr>
+                        <td>Follow-up questions</td>
+                        <td>✅</td>
+                        <td>❌</td>
+                        <td>✅</td>
+                    </tr>
+                    <tr>
+                        <td>Free tier</td>
+                        <td>✅</td>
+                        <td>✅</td>
+                        <td>✅</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <p><strong>Best for Quick Facts:</strong> Google<br>
+            <strong>Best for Analysis:</strong> ChatGPT<br>
+            <strong>Best for Sourced Research:</strong> Perplexity</p>
+        </section>
+        
+        <hr>
+        
+        <!-- Key Takeaways -->
+        <div class="takeaways">
+            <h2>Key Takeaways</h2>
+            <ul>
+                <li><strong>Real-time research</strong> transforms days of work into minutes</li>
+                <li><strong>Every claim is cited</strong>—verify everything independently</li>
+                <li><strong>Ask specific questions</strong> for better answers</li>
+                <li><strong>Use Focus Mode</strong> to narrow searches to relevant sources</li>
+                <li><strong>Pro tier unlocks</strong> multiple AI models and file analysis</li>
+            </ul>
+        </div>
+        
+        <!-- Action Steps -->
+        <div class="action-steps">
+            <h2>Action Steps</h2>
+            <ol>
+                <li><strong>Try Perplexity today</strong> with a real research question you have</li>
+                <li><strong>Compare results</strong> to your usual research process</li>
+                <li><strong>Use Focus Mode</strong> for your next industry-specific search</li>
+                <li><strong>Save useful threads</strong> to Collections for future reference</li>
+            </ol>
+        </div>
+        
+        <!-- What's Next -->
+        <section>
+            <h2>What's Next</h2>
+            <p>Tomorrow we'll explore AI coaching tools for leaders—how artificial intelligence is transforming executive development and leadership skills.</p>
+        </section>
+        
+        <hr>
+        
+        <!-- CTA Section -->
+        <div class="cta-section">
+            <p><strong>Join JBM</strong> for weekly AI tool reviews and business insights.</p>
+            <br>
+            <a href="#" class="cta-button">Get Access →</a>
+        </div>
+        
+        <!-- Footer -->
+        <footer class="post-footer">
+            <div class="tags">
+                <span class="tag">#AI</span>
+                <span class="tag">#Research</span>
+                <span class="tag">#Productivity</span>
+                <span class="tag">#BusinessIntelligence</span>
+                <span class="tag">#Tools</span>
+            </div>
+            <p>Author: JBM - Jovira Business Machine</p>
+        </footer>
+    </article>
+</body>
+</html>
