@@ -1,0 +1,25 @@
+Create a beginner-friendly illustration depicting building your first automation workflow.
+
+The scene should convey accessibility and achievement—showing someone successfully creating their first automation without technical expertise.
+
+Include elements like:
+- Simple flowchart being built (trigger → action)
+- User-friendly interface elements (drag and drop visuals)
+- Success indicators (checkmarks, completed steps)
+- "First win" celebration elements (subtle, professional)
+- Connected apps represented as friendly icons
+- Clear, simple path from start to finish
+
+Style: Friendly, approachable tech illustration. Think beginner tutorial meets success celebration—simple, encouraging, achievable.
+
+Colors:
+- Deep gold (#C9A227) for success elements, completed steps, achievement
+- Rich blue (#1E3A5F) for trust, reliability, professional foundation
+- Friendly teal or green accents for progress
+- Pure white (#FFFFFF) background
+
+Mood: Empowering, achievable, encouraging. The feeling that "I can actually do this."
+
+Composition: Clear left-to-right or top-to-bottom flow showing the simple steps. Success celebration at the end. Approachable, not intimidating.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio

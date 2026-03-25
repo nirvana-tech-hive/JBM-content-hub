@@ -1,0 +1,27 @@
+Create a split illustration depicting two AI assistants being compared for business use.
+
+The scene should convey choice and analysis—showing the decision between two powerful AI options. Visualize both assistants as distinct but equally capable entities.
+
+Include elements like:
+- A professional at center evaluating two options
+- Left side: Claude represented with distinctive visual identity (perhaps Anthropic's aesthetic)
+- Right side: ChatGPT represented with OpenAI's visual language
+- Document stacks and long-form content flowing to Claude side
+- Integrations and ecosystem elements flowing to ChatGPT side
+- Balance scales or decision indicators
+- Gold accents highlighting key differentiators
+
+Style: Modern tech illustration with clean split composition. Premium aesthetic similar to tech comparison reviews—balanced, informative, visually engaging.
+
+Colors:
+- Deep gold (#C9A227) for decision points, key differentiators, choice elements
+- Rich blue (#1E3A5F) for trust, analysis, professional elements
+- Warm orange tones for Claude representation
+- Green tones for ChatGPT representation
+- Pure white (#FFFFFF) background
+
+Mood: Analytical, balanced, empowering. The feeling of having clarity to make the right choice.
+
+Composition: Symmetrical split with professional figure at center making the evaluation. Clean lines dividing the two options.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio

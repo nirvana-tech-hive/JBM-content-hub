@@ -1,0 +1,23 @@
+🛠️ Your first automation shouldn't take weeks. It should take hours.
+
+Most people overthink their first automation. They try to automate complex processes when simple wins build momentum.
+
+Here's the step-by-step:
+1. Choose your trigger (what starts the automation)
+2. Select your actions (what happens automatically)
+3. Connect your apps (Zapier, Make, or alternatives)
+4. Test with real data
+5. Monitor and refine
+
+In this beginner's guide:
+→ How to choose your first automation project
+→ Zapier vs Make vs alternatives (with pricing)
+→ Screenshots of actual setup process
+→ The workflow I recommend everyone start with
+→ Troubleshooting common first-time issues
+
+Your first automation creates proof. Proof builds confidence. Confidence leads to transformation.
+
+You don't need technical skills. You need 2-3 hours and a repetitive task that bugs you.
+
+👇 Complete beginner's guide in comments

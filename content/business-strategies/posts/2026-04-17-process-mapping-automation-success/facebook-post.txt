@@ -1,0 +1,26 @@
+🗺️ You can't automate what you don't understand.
+
+Most automation projects fail not because the technology doesn't work, but because nobody actually knows how the process runs today.
+
+Here's what happens when you skip process mapping:
+→ You automate inefficiencies (making them faster)
+→ Hidden steps derail your automation
+→ Exceptions break your workflows
+→ Workarounds circumvent your systems
+
+Process mapping forces clarity:
+• Who touches this process?
+• What decisions are made?
+• Where do handoffs occur?
+• Why do exceptions exist?
+• How long does each step take?
+
+In this guide:
+→ The 6-step process mapping method
+→ Tools that make mapping visual and collaborative
+→ How to spot automation opportunities in your maps
+→ From map to automation: the transition
+
+The organizations that map first, automate second, get results 3x faster.
+
+👇 Full process mapping guide in comments

@@ -1,0 +1,25 @@
+Create a strategic illustration depicting prioritization and smart decision-making for automation.
+
+The scene should convey strategic thinking and wise choices—showing a business leader making informed decisions about where to focus automation efforts.
+
+Include elements like:
+- A leader figure at a decision point with multiple paths
+- A visible matrix or framework showing high/low impact options
+- Some processes highlighted in gold (high priority) while others are grayed out
+- Clear visual distinction between quick wins and major projects
+- Roadmap elements showing phased implementation
+- ROI indicators on key processes
+
+Style: Strategic business illustration with analytical elements. Think management consulting aesthetic—clear, insightful, decision-focused.
+
+Colors:
+- Deep gold (#C9A227) for high-priority items, quick wins, optimal choices
+- Rich blue (#1E3A5F) for strategy, framework elements, trust
+- Muted gray for low-priority items, distractions
+- Pure white (#FFFFFF) background
+
+Mood: Strategic, clear, decisive. The feeling of knowing exactly where to focus your energy.
+
+Composition: Decision matrix visualization with leader figure making selections. Clear hierarchy showing what to automate first.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio
