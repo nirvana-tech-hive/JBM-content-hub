@@ -1,0 +1,24 @@
+Create a modern corporate illustration depicting quality assurance monitoring in automated systems.
+
+The scene should convey vigilance and controlled quality — showing automated processes being monitored, validated, and checked for quality with clear oversight indicators.
+
+Include elements like:
+- Dashboard or monitoring interface showing green/red status indicators
+- Automated workflow elements with quality checkpoints
+- Shield or checkmark symbols representing validation and approval
+- Alert/notification elements suggesting proactive monitoring
+- A sense of control and oversight over complex processes
+
+Style: Premium tech illustration with clean lines and subtle gradients. Think Apple or Microsoft corporate aesthetic — sophisticated but accessible, conveying trust and reliability.
+
+Colors:
+- Deep gold (#C9A227) for quality checkmarks and validated elements
+- Rich blue (#1E3A5F) for monitoring interface and primary elements
+- Premium black (#1A1A1A) for contrast and detail
+- Pure white (#FFFFFF) background
+
+Mood: Reliable, vigilant, professional, controlled. Technology serving business quality and trust.
+
+Composition: Central monitoring element with automated processes flowing through checkpoints, plenty of white space, clean organized layout.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio

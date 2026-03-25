@@ -1,0 +1,24 @@
+🧠 Your brain isn't for remembering. It's for thinking.
+
+The "second brain" concept: an external system that captures, organizes, and retrieves knowledge so your biological brain can focus on thinking.
+
+Notion AI transforms this from idealistic vision to practical reality.
+
+In this guide:
+→ What Notion AI does (creation, synthesis, Q&A)
+→ The PARA structure (Projects, Areas, Resources, Archives)
+→ Building AI-enhanced workflows
+→ Notion AI vs. ChatGPT vs. Perplexity
+→ Practical use cases by role
+→ 3-week implementation guide
+
+Notion AI's unique advantage:
+✓ Works within your existing workspace
+✓ Full context of your documents
+✓ Team knowledge accessible
+✓ Query your workspace naturally
+✓ Collaborative by design
+
+Stop trying to remember everything. Build a system that thinks with you.
+
+👇 Complete Notion AI guide in comments

@@ -1,0 +1,24 @@
+Create a modern corporate illustration depicting automated lead qualification and scoring.
+
+The scene should convey filtering and prioritization — showing how automation separates high-quality leads from the noise, like finding diamonds among rough stones.
+
+Include elements like:
+- Funnel or filter visualization with leads entering and being sorted
+- Diamond or gem symbols representing qualified leads
+- Score numbers or point values on lead cards
+- Routing arrows directing leads to different paths
+- Sales rep or team icon at the output receiving prioritized leads
+
+Style: Modern corporate illustration with isometric elements, clean lines, and subtle gradients. Think Stripe or Salesforce aesthetic—premium, sophisticated, approachable.
+
+Colors:
+- Deep gold (#C9A227) for qualified/diamond leads and highlights
+- Rich blue (#1E3A5F) for technology elements and professional structure
+- Premium black (#1A1A1A) for text and filter elements
+- Pure white (#FFFFFF) background
+
+Mood: Efficient, precise, valuable, systematic. The feeling of clarity emerging from chaos.
+
+Composition: Top-down funnel flow with clear separation at output, plenty of white space, balanced asymmetry.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio

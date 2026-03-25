@@ -1,0 +1,26 @@
+Create a modern illustration depicting cloud storage comparison and file organization.
+
+The scene should convey clarity and choice—showing different cloud platforms being evaluated while files flow seamlessly to the right solution.
+
+Include elements like:
+- Multiple cloud platform icons (Google Drive, OneDrive, Dropbox, Box)
+- Files and folders being organized and sorted
+- Decision flowchart or comparison chart elements
+- Team collaboration happening through the cloud
+- Security shields and lock icons
+- Sync arrows connecting devices
+- Storage meters showing capacity
+
+Style: Modern corporate illustration with isometric elements, clean lines, and subtle gradients. Think Stripe or Linear aesthetic—premium, sophisticated, approachable.
+
+Colors:
+- Deep gold (#C9A227) for selected/preferred option, success indicators
+- Rich blue (#1E3A5F) for professional elements, charts
+- Platform-specific colors (Google blue, Microsoft blue, Dropbox blue, Box red)
+- Pure white (#FFFFFF) background
+
+Mood: Organized, decisive, confident. The feeling of finding the right solution for your team.
+
+Composition: Central comparison area with platforms arranged around it. Files flowing toward the right choice. Team collaboration visible in corner.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio

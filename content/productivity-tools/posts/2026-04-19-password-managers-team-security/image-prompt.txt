@@ -1,0 +1,24 @@
+Create a modern security-focused illustration depicting password management and team security.
+
+The scene should convey protection, organization, and controlled access — showing secure credential management with multiple team members having appropriate access levels.
+
+Include elements like:
+- Secure vault or safe representing encrypted password storage
+- Multiple user avatars with different access level indicators
+- Lock and key symbolism with digital aesthetic
+- Shield or protection elements around the vault
+- Connection lines showing team access to shared resources
+
+Style: Modern corporate illustration with isometric elements, clean lines, and subtle gradients. Think Stripe or Linear aesthetic—premium, sophisticated, trustworthy.
+
+Colors:
+- Deep gold (#C9A227) for lock/access indicators and key elements
+- Rich blue (#1E3A5F) for vault structure and security elements
+- Premium black (#1A1A1A) for user icons and outlines
+- Pure white (#FFFFFF) background
+
+Mood: Secure, trustworthy, organized, professional. The image should feel like valuable assets are well-protected.
+
+Composition: Central vault with radiating access connections to team members, plenty of white space, clear visual hierarchy.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio

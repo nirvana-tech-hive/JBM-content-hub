@@ -1,0 +1,16 @@
+📊 "Automate everything that saves time" is terrible advice.
+
+Not every process should be automated. Some cost more to automate than to run manually. Others break when you try.
+
+The question isn't "Can we automate this?" It's "Should we?"
+
+In this guide, I break down:
+→ The 4-step CBA framework with formulas
+→ Automation Matrix: complexity vs. volume
+→ Green/Yellow/Red light criteria
+→ Real examples with 234% ROI and 3.6-month payback
+→ Hidden costs most people miss
+
+Stop guessing. Start calculating.
+
+👇 Full framework in comments

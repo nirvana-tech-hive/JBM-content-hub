@@ -1,0 +1,26 @@
+Create a clean illustration depicting meeting scheduling automation and calendar management.
+
+The scene should convey efficiency and control—showing a professional's calendar that manages itself while they focus on meaningful work.
+
+Include elements like:
+- Calendar interface with available slots clearly marked
+- Booking notifications flowing in automatically
+- A relaxed professional working while meetings self-schedule
+- Time blocks differentiated (deep work vs. meeting time)
+- Buffer time visualization between appointments
+- Multiple meeting types with distinct colors
+- Time zone indicators for global scheduling
+
+Style: Modern corporate illustration with isometric elements, clean lines, and subtle gradients. Think Stripe or Linear aesthetic—premium, sophisticated, approachable.
+
+Colors:
+- Deep gold (#C9A227) for confirmed bookings, success indicators
+- Rich blue (#1E3A5F) for calendar elements, professional tone
+- Premium black (#1A1A1A) for text and key details
+- Pure white (#FFFFFF) background
+
+Mood: Efficient, organized, in-control. The feeling of having your time protected and optimized.
+
+Composition: Calendar as central element with automation flowing around it. Professional figure shown peacefully working. Clear separation between meeting time and focus time.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio

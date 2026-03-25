@@ -1,0 +1,27 @@
+Create a futuristic illustration depicting AI-powered coding and developer productivity.
+
+The scene should convey innovation and amplification—showing a developer working alongside AI assistance to accelerate code creation.
+
+Include elements like:
+- Developer at workstation with code on screen
+- AI suggestion panels appearing alongside code
+- Code completion in progress (highlighted suggestions)
+- Multiple programming language icons
+- Productivity metrics improving
+- GitHub Copilot branding subtly integrated
+- Neural network patterns connecting code to AI
+- Speed lines indicating accelerated workflow
+
+Style: Premium tech illustration with subtle futuristic elements. Think Apple or Microsoft corporate aesthetic—sophisticated but accessible.
+
+Colors:
+- Deep gold (#C9A227) for AI suggestions, productivity highlights
+- Rich blue (#1E3A5F) for code elements, developer workspace
+- Premium black (#1A1A1A) for text, terminal elements
+- Pure white (#FFFFFF) background
+
+Mood: Innovative, empowered, efficient. The feeling of being amplified by AI assistance.
+
+Composition: Developer in foreground with code interface central. AI suggestions flowing in as golden highlights. Background showing productivity improvement.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio

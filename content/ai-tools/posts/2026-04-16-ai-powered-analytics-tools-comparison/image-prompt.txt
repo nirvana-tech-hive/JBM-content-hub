@@ -1,0 +1,24 @@
+Create a modern corporate illustration depicting AI-powered data analytics transforming raw data into insights.
+
+The scene should convey intelligence and clarity emerging from complexity — showing data streams being processed by AI and transformed into clear, actionable visualizations.
+
+Include elements like:
+- Flowing data streams or particles being organized into structured patterns
+- AI/neural network elements suggesting intelligent processing
+- Dashboard or visualization components emerging from the data
+- A sense of transformation from chaos (raw data) to order (insights)
+- Subtle charts, graphs, or metric displays integrated into the design
+
+Style: Premium tech illustration with subtle futuristic elements. Think Apple or Microsoft corporate aesthetic — sophisticated but accessible.
+
+Colors:
+- Deep gold (#C9A227) for key insights and highlighted data points
+- Rich blue (#1E3A5F) for AI elements and primary structures
+- Premium black (#1A1A1A) for data streams and contrast
+- Pure white (#FFFFFF) background
+
+Mood: Intelligent, modern, transformative, accessible. Technology serving business clarity.
+
+Composition: Data flowing into AI processing element, emerging as clear visualizations, plenty of white space, balanced left-to-right flow.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio

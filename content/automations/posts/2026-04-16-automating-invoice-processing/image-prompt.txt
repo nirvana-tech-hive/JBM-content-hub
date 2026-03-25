@@ -1,0 +1,24 @@
+Create a modern corporate illustration depicting automated invoice processing workflow.
+
+The scene should convey efficiency and digital transformation — showing invoices being automatically processed, extracted, and flowing through a streamlined workflow from receipt to payment.
+
+Include elements like:
+- Digital invoice documents being processed by AI/OCR elements
+- Flowing workflow lines showing automatic routing and approvals
+- Checkmark or approval symbols integrated into the flow
+- Financial/document icons suggesting payment processing
+- A sense of hands-free automation with minimal human intervention needed
+
+Style: Modern corporate illustration with isometric elements, clean lines, and subtle gradients. Think Stripe or Linear aesthetic — premium, sophisticated, approachable.
+
+Colors:
+- Deep gold (#C9A227) for key approval elements and highlighted workflows
+- Rich blue (#1E3A5F) for document elements and primary structures
+- Premium black (#1A1A1A) for text elements and contrast
+- Pure white (#FFFFFF) background
+
+Mood: Efficient, streamlined, trustworthy, modern. A sense of complexity made simple.
+
+Composition: Left-to-right flow from invoice input through processing to payment, plenty of white space, clean balanced layout.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio

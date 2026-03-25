@@ -1,0 +1,26 @@
+Create a modern illustration depicting AI-powered CRM and customer intelligence.
+
+The scene should convey intelligent customer relationships—showing data transforming into actionable insights.
+
+Include elements like:
+- Customer profiles with AI prediction indicators
+- Pipeline visualization with probability scores
+- AI brain/neural network connected to customer data
+- Next best action recommendations appearing
+- Churn warning alerts
+- Lead scoring heat maps
+- Relationship strength indicators
+
+Style: Premium tech illustration with subtle futuristic elements. Think Apple or Microsoft corporate aesthetic—sophisticated but accessible.
+
+Colors:
+- Deep gold (#C9A227) for predictions, high-value leads, AI insights
+- Rich blue (#1E3A5F) for CRM interface, customer data, trust
+- Premium black (#1A1A1A) for text, data points
+- Pure white (#FFFFFF) background
+
+Mood: Intelligent, predictive, proactive. The feeling of having crystal ball for customer relationships.
+
+Composition: Central CRM dashboard with AI insights radiating outward. Customer profiles with prediction overlays. Clear data-to-insight visualization.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio

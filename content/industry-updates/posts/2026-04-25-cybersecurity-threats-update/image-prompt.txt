@@ -1,0 +1,24 @@
+Create a modern corporate illustration depicting cybersecurity threats and protection.
+
+The scene should convey vigilance and protection against digital threats — showing a business being shielded from various attack vectors while highlighting the seriousness of the threat landscape.
+
+Include elements like:
+- Shield or protection barrier around business assets
+- Various attack symbols (phishing hooks, ransomware locks, malware particles)
+- Lock icons representing security measures
+- Alert or warning indicators
+- Digital fortress or defensive perimeter
+
+Style: Modern corporate illustration with tech/security aesthetic. Think CrowdStrike or Palo Alto Networks marketing—professional, serious, protective, authoritative.
+
+Colors:
+- Deep gold (#C9A227) for protection elements and shield highlights
+- Rich blue (#1E3A5F) for defensive technology and structure
+- Premium black (#1A1A1A) for threat elements and text
+- Pure white (#FFFFFF) background
+
+Mood: Protective, serious, vigilant, empowering. The feeling of being prepared and defended against sophisticated threats.
+
+Composition: Central protected assets with visible threat attempts being blocked, plenty of white space, clear visual distinction between threats and protection.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio

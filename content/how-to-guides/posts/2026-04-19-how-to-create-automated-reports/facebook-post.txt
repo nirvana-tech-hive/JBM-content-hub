@@ -1,0 +1,17 @@
+📊 It starts innocently enough. Every Monday morning, you pull data from your CRM, email platform, sales system, and project tool.
+
+By the time you're done, half your morning is gone.
+
+Multiply that across weeks, months, and years, and you've lost hundreds of hours to manual reporting.
+
+The good news? This is entirely solvable.
+
+In this guide, I break down:
+→ How to audit and prioritize your reports for automation
+→ Tool options from simple spreadsheets to enterprise platforms
+→ Step-by-step walkthrough for building your first automated report
+→ Distribution strategies that ensure stakeholders actually read them
+
+Automated reports can deliver insights within minutes of data being available, not days.
+
+👇 Check the comments for the full guide

@@ -1,0 +1,24 @@
+Create a modern corporate illustration depicting the democratization of software development through no-code platforms.
+
+The scene should convey accessibility, empowerment, and technological transformation — showing a business user successfully building applications without traditional coding.
+
+Include elements like:
+- Drag-and-drop interface with visual workflow components
+- Business user (non-developer) confidently creating an application
+- Transformation visualization from complex code to intuitive visual blocks
+- Connected systems and data flowing between tools
+- Growth indicators showing business improvement
+
+Style: Modern corporate illustration with isometric elements, clean lines, and subtle gradients. Think Stripe or Linear aesthetic—premium, sophisticated, approachable.
+
+Colors:
+- Deep gold (#C9A227) for key activation points and success indicators
+- Rich blue (#1E3A5F) for interface elements and structural components
+- Premium black (#1A1A1A) for the business user figure and outlines
+- Pure white (#FFFFFF) background
+
+Mood: Empowering, accessible, innovative, professional. The image should feel like anyone can build powerful solutions.
+
+Composition: Balanced with clear visual hierarchy, plenty of white space, emphasis on the transformation from complex to simple.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio

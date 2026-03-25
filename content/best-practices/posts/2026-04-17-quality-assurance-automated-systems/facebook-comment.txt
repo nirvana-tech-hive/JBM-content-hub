@@ -1,0 +1,11 @@
+📚 Your complete automation QA guide is here:
+
+[LINK]
+
+Inside you'll discover:
+• Three-layer QA framework for any automation
+• Testing strategies for edge cases and failures
+• Monitoring metrics and alert tier setup
+• Common pitfalls and how to avoid them
+
+Save this before your next automation deployment! ✅

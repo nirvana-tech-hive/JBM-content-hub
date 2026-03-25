@@ -1,0 +1,24 @@
+Create a modern business illustration depicting automated reporting and data visualization.
+
+The scene should convey efficiency, insight, and time savings — showing data flowing automatically from sources to polished reports without manual intervention.
+
+Include elements like:
+- Multiple data source icons (CRM, email, analytics) connecting to a central hub
+- Automated workflow arrows showing data transformation
+- Polished dashboard or report being generated automatically
+- Clock or calendar showing time savings
+- Business professional receiving insights without manual work
+
+Style: Modern corporate illustration with isometric elements, clean lines, and subtle gradients. Think Stripe or Linear aesthetic—premium, sophisticated, approachable.
+
+Colors:
+- Deep gold (#C9A227) for key metrics and success indicators
+- Rich blue (#1E3A5F) for data flows and structural elements
+- Premium black (#1A1A1A) for icons and outlines
+- Pure white (#FFFFFF) background
+
+Mood: Efficient, insightful, professional, streamlined. The image should feel like complexity becoming simple.
+
+Composition: Dynamic flow from left (data sources) to right (finished report), plenty of white space, clear visual hierarchy.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio

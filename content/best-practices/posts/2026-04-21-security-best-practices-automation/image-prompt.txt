@@ -1,0 +1,24 @@
+Create a modern security-focused illustration depicting protected automation workflows.
+
+The scene should convey layered security, controlled access, and monitored data flows — showing automated systems operating within secure boundaries.
+
+Include elements like:
+- Lock or shield symbols protecting workflow nodes
+- Multiple security layers with different visual treatments
+- Data flowing through protected channels (like pipes or streams)
+- Monitoring indicators showing active surveillance
+- Access control checkpoints at key connection points
+
+Style: Premium tech illustration with subtle futuristic elements. Think Apple or Microsoft corporate aesthetic—sophisticated but accessible, serious but not frightening.
+
+Colors:
+- Deep gold (#C9A227) for security highlights and protected elements
+- Rich blue (#1E3A5F) for structural elements and data flows
+- Premium black (#1A1A1A) for security checkpoints and locks
+- Pure white (#FFFFFF) background
+
+Mood: Secure, professional, trustworthy, controlled. The image should feel like automation is both powerful and protected.
+
+Composition: Multiple layers of protection around a central workflow, plenty of white space, clear visual hierarchy showing security boundaries.
+
+Size: 1080x1080 pixels, Instagram post format, square aspect ratio
